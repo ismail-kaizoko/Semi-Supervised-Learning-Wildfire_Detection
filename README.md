@@ -1,5 +1,5 @@
 # Semi Supervised Learning 
-## Wild-fire (found in the  [Link]([URL](https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset/data))
+## Wild-fire (found in the  [Link](https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset/data)
 
 This is a project where we leverage some techniques of SSL
 ### Scenario : 
